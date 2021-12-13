@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flare-bindings.iml" filepath="$PROJECT_DIR$/flare-bindings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" filepath="$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" />
+    </modules>
+  </component>
+</project>
