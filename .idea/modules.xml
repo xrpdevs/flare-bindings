@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/flare-bindings.iml" filepath="$PROJECT_DIR$/flare-bindings.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/pricesubmitter/golang/pricesubmitter.iml" filepath="$PROJECT_DIR$/golang/pricesubmitter/golang/pricesubmitter.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" filepath="$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golang/wnat/golang/wnat.iml" filepath="$PROJECT_DIR$/golang/wnat/golang/wnat.iml" />
     </modules>
   </component>
 </project>
