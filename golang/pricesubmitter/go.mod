@@ -1,4 +1,4 @@
-module github.com/flare-bindings/golang/pricesubmitter
+module github.com/xrpdevs/flare-bindings/golang/pricesubmitter
 
 go 1.17
 
