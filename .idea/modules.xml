@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flare-bindings.iml" filepath="$PROJECT_DIR$/flare-bindings.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/ftso/ftso.iml" filepath="$PROJECT_DIR$/golang/ftso/ftso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golang/ftsorewardmanager/ftsorewardmanager.iml" filepath="$PROJECT_DIR$/golang/ftsorewardmanager/ftsorewardmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/pricesubmitter/golang/pricesubmitter.iml" filepath="$PROJECT_DIR$/golang/pricesubmitter/golang/pricesubmitter.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" filepath="$PROJECT_DIR$/golang/voterwhitelister/golang/voterwhitelister.iml" />
       <module fileurl="file://$PROJECT_DIR$/golang/wnat/golang/wnat.iml" filepath="$PROJECT_DIR$/golang/wnat/golang/wnat.iml" />
